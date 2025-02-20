@@ -1,4 +1,4 @@
 #Admob
 google.com, pub-5400021179886640, DIRECT, f08c47fec0942fa0
 #Meta
-meta
+facebook.com, 1556104601756019, DIRECT, c3e20eee3f780d68
